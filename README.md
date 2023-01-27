@@ -151,7 +151,7 @@ Validate the HTML and CSS code.
 ![output](./Screenshot%202023-01-27%20183610.png)
 
 ## validator:
-![output](./Screenshot%202023-01-27%20183610.png)
+![output](./coverpage%20validator.png)
 
 ## Result:
 Thus a website to display the cover page design of a book was successfully created.
