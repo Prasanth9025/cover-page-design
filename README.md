@@ -132,7 +132,7 @@ Validate the HTML and CSS code.
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>Yuvashakthi N C</b></p>
+               <p><b>Prasanth U</b></p>
             </div>
             <div class="publisher">
                 Packt>
@@ -148,7 +148,7 @@ Validate the HTML and CSS code.
 
 
 ## OUTPUT:
-![output](./Screenshot%202023-01-27%20183610.png)
+![output](./output.png)
 
 ## validator:
 ![output](./Screenshot%202023-01-27%20184017.png)
